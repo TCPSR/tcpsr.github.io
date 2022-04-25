@@ -1,23 +1,18 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+widget: hero
+widget_id: top
+headless: true
+weight: 10
+title: 台灣心理科學研究協作群
+subtitle: Taiwan Collaboration for Psychological Scientific Research
+active: false
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
+hero_media: welcome.jpg
 ---
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+本協作群由全台灣六所大學實驗心理學教師發起，透過組織與經營心理科學協作平台，向台灣社會與行為科學界人士推廣開放科學之理念及實踐方法。交流內容自2019/11/2起完全公開，開放願意協助的各界人士加入。
