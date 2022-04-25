@@ -1,9 +1,10 @@
 ---
 widget: pages
-headless: true
+widget_id: top-news
 weight: 20
 title: 最新消息
 subtitle: null
+active: true
 content:
   count: 5
   filters:
@@ -15,7 +16,7 @@ content:
   offset: 0
   order: desc
   page_type: post
-widget_id: top-news
+headless: true
 design:
   view: 3
   columns: "1"
