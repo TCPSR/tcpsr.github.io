@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: 台灣心理科學研究協作群
 subtitle: Taiwan Collaboration for Psychological Scientific Research
-active: false
+active: true
 design:
   columns: "1"
   css_style: null
