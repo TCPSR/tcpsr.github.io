@@ -10,7 +10,7 @@ baseURL: 'https://tcpsr.netlify.app/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh-Hant
+defaultContentLanguage: en
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
