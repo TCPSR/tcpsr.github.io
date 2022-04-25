@@ -1,11 +1,9 @@
 ---
-title: Latest News
-
-# Listing view
+title: 最新消息
 view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
+date: 2022-04-25T13:18:49.650Z
 ---
+<!--- --->
