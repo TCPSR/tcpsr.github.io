@@ -1,5 +1,5 @@
 ---
-title: 最新消息
+title: 課程及資源開放訊息
 view: compact
 banner:
   caption: ""
