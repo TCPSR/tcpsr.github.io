@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} TCPSR 網站遵循創用CC {license}建置。'
+    notice: '© {year} TCPSR 網站遵循創用{license}建置。'
     license:
       enable: true
       allow_derivatives: false
