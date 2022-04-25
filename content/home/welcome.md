@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: top
+widget_id: top-welcome
 headless: true
 weight: 10
 title: 台灣心理科學研究協作群
