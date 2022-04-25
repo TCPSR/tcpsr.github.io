@@ -1,75 +1,46 @@
 ---
-# Display name
-title: 吳恩達
-
-# Username (this should match the folder name)
+organizations:
+  - name: Tzu-Chi University
+    url: ""
+superuser: false
 authors:
   - 吳恩達
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: 陳紹慶
+role: Associate professor of cognitive psychology
+avatar_filename: https://scchen.com/en/author/sau-chin-chen/avatar_hu3d590b371aacc9bbd6d33aea2a79116c_5560_270x270_fill_q75_lanczos_center.jpg
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - Language Comprehension
+  - Word Reading
+  - Open Sciences
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: mailto:pmsp96@gmail.com
   - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    icon_pack: fas
+    link: https://twitter.com/@SauChin_Chen
+  - icon: orcid
+    icon_pack: fas
+    link: https://orcid.org/0000-0001-6092-6049
+    label: ""
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    link: https://github.com/SCgeeker
+education:
+  courses:
+    - course: PhD in Psychology
+      institution: National Chung Cheng University
+      year: 2004
+    - course: BSc in Psychology
+      institution: National Chengchi University
+      year: 1998
+email: ""
 user_groups:
   - Researchers
   - Visitors
 ---
+Sau-Chin Chen is the associate professor of [Department of Human Development and Psychology, Tzu-Chi University](http://www.hdd.tcu.edu.tw/) since 2017. Between 2016 Feb and 2017 Jan, I was visiting [Department of Psychology, Erasmus University Rotterdam](http://www.eur.nl/fsw/english/psychology/). Durning this period, I am collaborating with [Rolf Zwaan](http://rolfzwaan.blogspot.nl/) on the mental simulation in language comprehension. You will find the articles and blog posts about my research that are going to be updated.
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Since 2017, I joined [Psychological Science Accelerator](https://psysciacc.org/) and contributed the [object orientation effects across languages](https://psyarxiv.com/t2pjv/) as one of the initial collaborative research projects. To practice what I have learned from [The Society for the Improvement of Psychological Science](https://improvingpsych.org/), I am managing the podcast [open cafe](https://anchor.fm/opensci-cafe) and running the community [Taiwan Collaboration for Psychological Scientific Research](https://sites.google.com/gms.tcu.edu.tw/exppsyunion/). Both projects aim to ground the open and reproducible sciences in Taiwan and Chinese-speaking societies. Till 2021, I am participating in the operations of [Psychological Science Accelerator](https://psysciacc.org/) and [The Society for the Improvement of Psychological Science](https://improvingpsych.org/) as the associative director and executive commitee.
