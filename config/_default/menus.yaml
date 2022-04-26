@@ -17,7 +17,7 @@ main:
     url: slides
     weight: 40
   - name: 專案交換
-    url: projects
+    url: project
     weight: 50
   - name: 聯絡我們
     url: contact
