@@ -7,10 +7,10 @@ main:
   - name: 關於TCPSR
     url: tour
     weight: 10
-  - name: 種子培訓
+  - name: 種子資源
     url: post
     weight: 20
-  - name: 研讀會
+  - name: 推廣活動
     url: event
     weight: 30
   - name: 學習資源
