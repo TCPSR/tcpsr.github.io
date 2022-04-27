@@ -3,7 +3,7 @@ widget: pages
 widget_id: top-2
 weight: 20
 title: 最新活動訊息
-subtitle: null
+subtitle: 開啟"推廣活動"查看更多訊息
 active: true
 content:
   count: 5
@@ -18,11 +18,5 @@ content:
   page_type: event
 headless: true
 design:
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)  
   view: 1
-  #columns: "2"
 ---
