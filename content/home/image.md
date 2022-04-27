@@ -2,7 +2,7 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: top-bottom
+widget_id: top-3
 headless: true
 weight: 30
 title: null

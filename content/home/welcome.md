@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: top-welcome
+widget_id: top-1
 headless: true
 weight: 10
 title: 台灣心理科學研究協作群
@@ -10,7 +10,7 @@ design:
   columns: "1"
   css_style: null
   css_class: null
-hero_media: welcome.jpg
+hero_media: welcome.jpg  # tcpsr logo
 ---
 
 <br>

@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: top-news
+widget_id: top-2
 weight: 20
 title: 最新活動訊息
 subtitle: null
