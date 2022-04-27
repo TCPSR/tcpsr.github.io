@@ -6,7 +6,7 @@ title: 最新活動訊息
 subtitle: 開啟"推廣活動"查看更多訊息
 active: true
 content:
-  count: 5
+  count: 3
   filters:
     author: ""
     category: ""
