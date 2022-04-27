@@ -1,5 +1,5 @@
 ---
-widget: featured
+widget: pages
 widget_id: top-news
 weight: 20
 title: 最新活動訊息
