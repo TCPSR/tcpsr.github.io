@@ -5,15 +5,6 @@ headless: true
 weight: 10
 title: 台灣心理科學研究協作群
 subtitle: Taiwan Collaboration for Psychological Scientific Research
-links:
-  - icon_pack: fab
-    icon: twitter
-    name: Follow us on twitter
-    url: 'https://twitter.com/TCPSR1'
-  - icon_pack: fab
-    icon: facebook
-    name: Join our community
-    url: 'https://www.facebook.com/groups/697283700707823/'
 active: true
 design:
   columns: "1"
