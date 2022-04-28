@@ -21,6 +21,10 @@ content:
       name: Join our community
       link: 'https://www.facebook.com/groups/697283700707823/'
       #weight: 70
+    - icon: github-square
+      icon_pack: fab
+      name: Source code of our site
+      link: 'https://github.com/TCPSR/tcpsr.github.io'
 
 design:
   columns: "1"
