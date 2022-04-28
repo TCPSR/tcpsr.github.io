@@ -14,7 +14,7 @@ main:
     url: event
     weight: 30
   - name: 學習資源
-    url: slides
+    url: course
     weight: 40
   - name: 專案交換
     url: project
