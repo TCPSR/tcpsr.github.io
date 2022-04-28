@@ -100,7 +100,8 @@ features:
 extensions:
   cms:
     branch: main
-    local_backend: false
+    #publish_mode: editorial_workflow
+    #local_backend: false
   academicons:
     enable: true
 
