@@ -22,13 +22,3 @@ main:
 #  - name: 聯絡我們
 #    url: contact
 #    weight: 60
-  - icon_pack: fab
-    icon: twitter
-#    name: Follow us on twitter
-    url: https://twitter.com/TCPSR1
-    weight: 60
-  - icon_pack: fab
-    icon: facebook
- #   name: Join our community
-    url: https://www.facebook.com/groups/697283700707823/
-    weight: 70
