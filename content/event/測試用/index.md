@@ -1,5 +1,5 @@
 ---
-title: 測試用
+title: 測試用範本
 abstract: 活動說明
 location: 線上/實體地址
 date: 2022-04-28T06:44:26.773Z
