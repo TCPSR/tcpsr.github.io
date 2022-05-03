@@ -9,8 +9,8 @@ abstract: |
   - 生物機制是怎樣的理論？
   - 生醫的探索型實驗（以及其是否導向理論、怎樣導向理論）
 location: 線上
-date: 2022-05-06T08:00:11.748Z
-date_end: 2022-05-06T10:00:00.000Z
+date: 2022-05-06T16:00:11.748Z
+date_end: 2022-05-06T18:00:00.000Z
 all_day: false
 event: 演講
 event_url: tba
