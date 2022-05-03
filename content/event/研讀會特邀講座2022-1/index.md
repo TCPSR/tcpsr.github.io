@@ -1,11 +1,14 @@
 ---
-title: "研讀會特邀講座2022-1: 從生物醫學看科學過程: 生醫的理論發展模式 講者：成大歷史系  區曣中助理教授"
+title: "研讀會特邀講座2022-1: 從生物醫學看科學過程: 生醫的理論發展模式 "
 abstract: |
+  講者：成大歷史系  區曣中助理教授
+
+  主題摘要: 
   - 生醫實驗的哲學概觀
   - 實驗資料、實驗現象與理論的關係
   - 生物機制是怎樣的理論？
   - 生醫的探索型實驗（以及其是否導向理論、怎樣導向理論）
-location: 線上(+實體?)
+location: 線上
 date: 2022-05-06T08:00:19.940Z
 date_end: 2022-05-06T10:00:00.000Z
 all_day: false
@@ -20,3 +23,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+
+研讀會特邀講座2022-1: 從生物醫學看科學過程: 生醫的理論發展模式 
+
+講者：成大歷史系 區曣中助理教授
+
+* 生醫實驗的哲學概觀 - 實驗資料、實驗現象與理論的關係 - 生物機制是怎樣的理論？ - 生醫的探索型實驗（以及其是否導向理論、怎樣導向理論）
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfn1l_3BcWxB3zeIu0qcoePADNMVfuSk83AyccOmlotoF9NWQ/viewform?embedded=true" width="640" height="1006" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
