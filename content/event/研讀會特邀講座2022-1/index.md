@@ -12,8 +12,8 @@ location: >-
 
 
   同步直播
-date: 2022-05-06T08:00:11.748Z
-date_end: 2022-05-06T10:00:00.000Z
+date: 2022-05-06T16:00:00.000Z
+date_end: 2022-05-06T18:00:00.000Z
 all_day: false
 event: 演講
 event_url: https://youtu.be/TaSmLCwF8Z4
@@ -22,9 +22,9 @@ draft: false
 featured: true
 authors: []
 image:
-  filename: screenshot_1529.png
+  filename: AYC.png
   focal_point: SMART
-  preview_only: false
+ # preview_only: true
 ---
 **講者**：成大歷史系 區曣中助理教授
 
