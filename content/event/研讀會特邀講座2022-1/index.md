@@ -22,7 +22,7 @@ draft: false
 featured: true
 authors: []
 image:
-  filename: ayc.png
+  filename: ayc.jpg
   focal_point: SMART
 ---
 **講者**：成大歷史系 區曣中助理教授
