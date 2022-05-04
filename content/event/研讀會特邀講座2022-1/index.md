@@ -17,14 +17,13 @@ date_end: 2022-05-06T18:00:00.000Z
 all_day: false
 event: 演講
 event_url: https://youtu.be/TaSmLCwF8Z4
-publishDate: 2022-04-27T08:24:19.980Z
+publishDate: 2022-05-04T05:40:38.834Z
 draft: false
 featured: true
 authors: []
 image:
-  filename: AYC.png
+  filename: ayc.png
   focal_point: SMART
- # preview_only: true
 ---
 **講者**：成大歷史系 區曣中助理教授
 
