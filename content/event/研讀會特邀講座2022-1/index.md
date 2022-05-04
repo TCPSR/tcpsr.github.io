@@ -3,7 +3,15 @@ title: "研讀會特邀講座2022-1: 從生物醫學看科學過程: 生醫的�
 abstract: |+
   生醫實驗的哲學概觀 - 實驗資料、實驗現象與理論的關係 - 生物機制是怎樣的理論？ - 生醫的探索型實驗（以及其是否導向理論、怎樣導向理論）
 
-location: Youtube, Facebook, Twitter同步直播
+location: >-
+  Youtube - https://youtu.be/TaSmLCwF8Z4
+
+  Facebook -`https://www.facebook.com/groups/697283700707823/permalink/1405072443262275/ 
+
+  Twitter - https://twitter.com/TCPSR1
+
+
+  同步直播
 date: 2022-05-06T08:00:11.748Z
 date_end: 2022-05-06T10:00:00.000Z
 all_day: false
@@ -15,7 +23,7 @@ featured: true
 authors: []
 image:
   filename: screenshot_1529.png
-  focal_point: Smart
+  focal_point: SMART
   preview_only: false
 ---
 **講者**：成大歷史系 區曣中助理教授
