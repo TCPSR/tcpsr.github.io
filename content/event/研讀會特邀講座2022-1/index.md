@@ -4,11 +4,11 @@ abstract: |+
   生醫實驗的哲學概觀 - 實驗資料、實驗現象與理論的關係 - 生物機制是怎樣的理論？ - 生醫的探索型實驗（以及其是否導向理論、怎樣導向理論）
 
 location: >-
-  Youtube - https://youtu.be/TaSmLCwF8Z4
+  [Youtube](https://youtu.be/TaSmLCwF8Z4)
 
-  Facebook -`https://www.facebook.com/groups/697283700707823/permalink/1405072443262275/ 
+  [Facebook](https://www.facebook.com/groups/697283700707823/permalink/1405072443262275/)
 
-  Twitter - https://twitter.com/TCPSR1
+  [Twitter](https://twitter.com/TCPSR1)
 
 
   同步直播
