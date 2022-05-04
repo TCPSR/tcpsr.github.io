@@ -19,7 +19,7 @@ draft: false
 featured: false
 authors: []
 image:
-  filename: ""
+  filename: screenshot_1529.png
   focal_point: Smart
   preview_only: false
 ---
