@@ -55,7 +55,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM CST'
-  address_format: en-us
+  address_format: zh
 
 # Site features
 
