@@ -4,6 +4,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
   urna, suscipit quis sapien eu, pulvinar tempor diam.
 slides: null
+draft: true
 url_pdf: ""
 summary: An example event.
 date_end: 2020-01-01T15:00:00.000Z
@@ -22,7 +23,7 @@ address:
 title: Example Event
 location: Wowchemy HQ
 event: Wowchemy Conference
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects: null
 image:
