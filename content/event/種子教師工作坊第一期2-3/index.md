@@ -9,7 +9,7 @@ event: 工作坊
 event_url: tba
 publishDate: 2022-04-27T08:00:03.674Z
 draft: false
-featured: false
+featured: true
 tags:
   - APES
   - 預先註冊必修課
