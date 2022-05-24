@@ -1,7 +1,9 @@
 ---
 title: "`effectsize` 套件使用指南"
-subtitle: 工作坊成員協作成果#1
+subtitle: ""
 date: 2022-05-24T06:44:58.536Z
+authors:
+  - 種子計畫工作坊學員：魏志名
 ---
 經過[第一堂課程](https://rstat-project.github.io/seed_courses/Lecture01.html#/)，為了各位學員之後在各種場域教授與討論效果量的計算與解讀，提供示範用的R程式碼及說明範例是相當有用的。我們將彙整Ben-Shachar等人(2020)開發的[R套件`effect size`](https://easystats.github.io/effectsize/index.html)，與Ellis(2010)Chapter
 1,2的內容，以接力協作的方式編輯這份作業。每位學員貢獻一點成果，換取更多人在研究教學上的便利。
