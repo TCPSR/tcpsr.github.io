@@ -5,6 +5,8 @@ location: 報名後，將在當天視訊開始半小時前，收到視訊連結�
 date: 2022-05-27T16:00:00.000Z
 date_end: 2022-05-27T18:00:00.000Z
 all_day: false
+links:
+  - url: seed_workshop_2022_01_02
 event: 工作坊
 event_url: tba
 publishDate: 2022-04-27T08:00:03.674Z
@@ -21,8 +23,16 @@ image:
 ---
 **講者**：慈濟大人類發展與心理學系副教授陳紹慶老師
 
-**行前準備**：安裝好R和Rstudio，知道怎麼用Rstudio開啟和執行R程式碼。初次使用者請參考講者經營的工作坊網站首頁指引，測試個人設備能正確執行。
+**行前準備**：安裝好R和Rstudio，知道怎麼用Rstudio開啟和執行R程式碼。初次者請參考講者經營的工作坊網站首頁指引，測試個人設備能正確執行。
 
-工作坊資源網站：https://rstat-project.github.io/programs.html
+**工作坊資源網站**：https://rstat-project.github.io/programs.html
+
+第一期第一次上課錄影：
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U3REbqQkln4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeY5T2Ue-sx8sRjLX9_GBQn7NYsALYFBRknEt5lUI7DWzBlCw/viewform?embedded=true" width="640" height="1526" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe>
