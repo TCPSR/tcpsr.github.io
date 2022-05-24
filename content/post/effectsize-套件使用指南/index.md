@@ -133,7 +133,7 @@ report::report_effectsize(cor_results)
 
 ## 解讀效果量
 
-> `effectsize`套件收錄統計學者的建議，使用者預估[效果量**份量**](https://easystats.github.io/effectsize/articles/interpret.html)。在此彙整解讀效果量的函式使用方法。
+> `effectsize`套件收錄統計學者的建議，提供使用者查詢效果量**份量**的[建議](https://easystats.github.io/effectsize/articles/interpret.html)。在此彙整解讀效果量的函式與使用方法。
 
 #### 參考資源
 
