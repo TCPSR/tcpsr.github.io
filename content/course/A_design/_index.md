@@ -4,13 +4,13 @@ date: 2022-04-28
 type: book
 ---
 
-1. 實驗效果測量條件
+# 1. 實驗效果測量條件
 
-2. 實驗操作條件
+# 2. 實驗操作條件
 
-3. 預估實驗效果量的方法
+# 3. 預估實驗效果量的方法
 
-4. (待定項目,參與成員確認後成立)
+# 4. (待定項目,參與成員確認後成立)
 
 參考資源：
 Lakens, D., & DeBruine, L. (in press). Improving transparency, falsifiability, and rigour by making hypothesis tests machine readable. Advances in Methods and Practices in Psychological Science.
