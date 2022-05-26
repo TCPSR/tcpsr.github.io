@@ -4,6 +4,7 @@ subtitle: ""
 date: 2022-05-24T06:44:58.536Z
 authors:
   - 主創者：陳紹慶     協作者：魏志名
+  - 蕭富聲
 ---
 經過[第一堂課程](https://rstat-project.github.io/seed_courses/Lecture01.html#/)，為了各位學員之後在各種場域教授與討論效果量的計算與解讀，提供示範用的R程式碼及說明範例是相當有用的。我們將彙整Ben-Shachar等人(2020)開發的[R套件`effect size`](https://easystats.github.io/effectsize/index.html)，與Ellis(2010)Chapter
 1,2的內容，以接力協作的方式編輯這份作業。每位學員貢獻一點成果，換取更多人在研究教學上的便利。
@@ -77,13 +78,8 @@ R程式碼範例:<br/>
 ``` r
 cor_results <- cor.test(mtcars$mpg, mtcars$disp,conf.level = 0.95) 
 report::report_effectsize(cor_results)
-```
 
-    ##  
-    ## 
-    ## very large (r = -0.85, 95% CI [-0.92, -0.71])
-
-``` r
+## very large (r = -0.85, 95% CI [-0.92, -0.71])
 ## 輸出效果量及95%信賴區間
 ```
 
@@ -112,6 +108,18 @@ report::report_effectsize(cor_results)
 -   The coefﬁcient of determination (*r*<sup>2</sup>)
 
 **負責學員** [蕭富聲(佛光大學)](https://github.com/FGU-Xiao)
+
+$$r^2 = \frac{ \sum_{i=1}^{N}(\hat{y_i}-ȳ_i)^2}{ \sum_{i=1}^{N} (y_i-ȳ_i)^2 } $$
+
+``` r 
+## 決定係數比較範例
+## 範例資料來自`mtcars`
+
+m1 <- lm(hp ~ disp, data = mtcars)
+summary(m1)
+
+## 輸出效果量及95%信賴區間
+```
 
 -   the (uncorrected) coefﬁcient of multiple determination
     (*R*<sup>2</sup>$)
