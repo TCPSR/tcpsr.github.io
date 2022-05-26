@@ -3,7 +3,7 @@
 title: 心理學研究可重製教程
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: course
+linktitle: 教程單元
 
 # Page summary for search engines.
 summary: Blah, blah, blah...
