@@ -2,6 +2,7 @@
 title: 假設與實驗設計
 date: 2022-04-28
 type: book
+toc: true
 ---
 
 # 1. 實驗效果測量條件
