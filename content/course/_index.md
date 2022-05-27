@@ -14,6 +14,7 @@ date: 2018-09-09
 # Book page type (do not modify).
 type: book
 
+toc: true
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 ---
