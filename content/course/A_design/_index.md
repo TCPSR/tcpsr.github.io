@@ -5,10 +5,8 @@ type: book
 toc: true
 ---
 
+你能獲得的資源指引...
 
-
-
-# 4. (待定項目,參與成員確認後成立)
 
 參考資源：
 Lakens, D., & DeBruine, L. (in press). Improving transparency, falsifiability, and rigour by making hypothesis tests machine readable. Advances in Methods and Practices in Psychological Science.
