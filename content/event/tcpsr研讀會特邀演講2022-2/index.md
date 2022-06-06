@@ -10,7 +10,7 @@ all_day: false
 event: 演講
 event_url: TBA
 publishDate: 2022-04-27T08:26:40.072Z
-draft: false
+draft: true
 featured: false
 image:
   filename: ""
