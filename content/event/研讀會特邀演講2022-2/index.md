@@ -8,6 +8,7 @@ abstract: |+
   (2021). Psychology’s Theory Crisis, and Why Formal Modelling Cannot Solve It.
   PsyArXiv.
   https://doi.org/10.31234/osf.io/puqvs)的結論中提到，背景假設的討論須包含不只是理論，還有哲學。經過讀書會的討論，邀請陳瑞老師老師談談如何入門科學哲學，並從科學哲學的角度理解理論的建立。
+
 location: >-
 直播平台  
 
