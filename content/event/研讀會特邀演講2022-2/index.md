@@ -14,8 +14,8 @@ location: |-
     [TCPSR FB社團](https://www.facebook.com/groups/697283700707823)
 
     [TCPSR 推特](https://twitter.com/TCPSR1)
-date: 2022-06-17T07:00:33.756Z
-date_end: 2022-06-17T09:00:33.644Z
+date: 2022-06-17T15:00:00.000Z
+date_end: 2022-06-17T17:00:00.000Z
 all_day: true
 event: 演講
 event_url: https://youtu.be/V1GrVxunanM
