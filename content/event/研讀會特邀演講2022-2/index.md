@@ -16,7 +16,7 @@ location: |-
     [TCPSR 推特](https://twitter.com/TCPSR1)
 date: 2022-06-17T15:00:00.000Z
 date_end: 2022-06-17T17:00:00.000Z
-all_day: true
+all_day: false
 event: 演講
 event_url: https://youtu.be/V1GrVxunanM
 publishDate: 2022-06-06T08:03:33.836Z
