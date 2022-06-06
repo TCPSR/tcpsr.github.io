@@ -26,20 +26,12 @@ authors:
 image:
   filename: featured.png
 ---
-<!--StartFragment-->
+
 
 \[講者介紹](https://deptphi.ccu.edu.tw/zh_tw/Faculty1/Faculty/%E9%99%B3-%E7%91%9E%E9%BA%9F-45575577)
 
-
-
 老師有多篇文章可供參考:
 
-
-
 1. https://www.facebook.com/POS.RueyLin/
-
 2. https://www.thinkingtaiwan.com/content/6878
-
 3. https://pansci.asia/archives/327194
-
-<!--EndFragment-->
