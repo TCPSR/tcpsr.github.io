@@ -10,8 +10,9 @@ abstract: "緣起：「台灣心理科學研究協作群(TCPSR)是由數位不�
   PsyArXiv.
   https://doi.org/10.31234/osf.io/puqvs)的結論中提到，背景假設的討論須包含不只是理論，還有哲學。經過讀書會的討論，大家\
   對於科學哲學的理論建立感到很有興趣，希望更了解科學哲學，因此想誠摯地詢問陳老師可否為我們解惑科學哲學，並從科學哲學的角度看看理論建立呢？"
-location: |
-  線上：
+location: >
+  Youtube, TCPSR [FB社團](https://www.facebook.com/groups/697283700707823),
+  [推特](https://twitter.com/TCPSR1)同步直播
 date: 2022-06-17T07:00:00.000Z
 date_end: 2022-06-17T09:00:00.000Z
 all_day: false
@@ -21,18 +22,16 @@ publishDate: 2022-06-06T05:01:54.186Z
 draft: false
 featured: false
 authors:
-  - "[中正大學哲學系 陳瑞麟
-    講座教授](https://deptphi.ccu.edu.tw/zh_tw/Faculty1/Faculty/%E9%99%B3-%E7%91%9E\
-    %E9%BA%9F-45575577)"
+  - 中正大學哲學系 陳瑞麟 講座教授
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
-陳老師有多篇文章可供參考: 
+[講者介紹](https://deptphi.ccu.edu.tw/zh_tw/Faculty1/Faculty/%E9%99%B3-%E7%91%9E%E9%BA%9F-45575577)
+
+老師有多篇文章可供參考: 
 
 1. https://www.facebook.com/POS.RueyLin/
-
 2. https://www.thinkingtaiwan.com/content/6878
-
 3. https://pansci.asia/archives/327194
