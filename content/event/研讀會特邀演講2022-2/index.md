@@ -27,8 +27,7 @@ image:
   filename: featured.png
 ---
 
-
-\[講者介紹](https://deptphi.ccu.edu.tw/zh_tw/Faculty1/Faculty/%E9%99%B3-%E7%91%9E%E9%BA%9F-45575577)
+[講者介紹](https://deptphi.ccu.edu.tw/zh_tw/Faculty1/Faculty/%E9%99%B3-%E7%91%9E%E9%BA%9F-45575577)
 
 老師有多篇文章可供參考:
 
