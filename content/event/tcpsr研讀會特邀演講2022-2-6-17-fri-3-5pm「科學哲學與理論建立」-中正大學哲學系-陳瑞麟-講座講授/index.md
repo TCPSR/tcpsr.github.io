@@ -17,7 +17,7 @@ date: 2022-06-17T07:00:00.000Z
 date_end: 2022-06-17T09:00:00.000Z
 all_day: false
 event: 演講
-event_url: TBA
+event_url: https://youtu.be/V1GrVxunanM
 publishDate: 2022-06-06T05:01:54.186Z
 draft: false
 featured: false
