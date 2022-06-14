@@ -6,6 +6,8 @@ abstract: >-
     Factor and Network Literature, Psychological Inquiry, 31:4, 271-288, DOI:
     10.1080/1047840X.2020.1853461)中提到了心理科學目前在建立理論上遇到的難處，並在參考的文本(Maatman, F. O.   (2021). Psychology’s Theory Crisis, and Why Formal Modelling Cannot Solve It.
     PsyArXiv. https://doi.org/10.31234/osf.io/puqvs)的結論中提到，背景假設的討論須包含不只是理論，還有哲學。經過讀書會的討論，邀請陳瑞老師老師談談如何入門科學哲學，並從科學哲學的角度理解理論的建立。
+
+  本演講將從「理論在科學研究扮演什麼樣的角色？」這個問題開場，然後介紹過去的科學哲學如何探討科學理論的本質和結構（可參看華文哲學百科〈科學理論的結構〉(https://mephilosophy.ccu.edu.tw/entry.php?entry_name=%E7%A7%91%E5%AD%B8%E7%90%86%E8%AB%96%E7%9A%84%E7%B5%90%E6%A7%8B)，再從這裡出發來為「如何建立科學理論」提供科學哲學的觀點。
 location: |-
   直播平台  
 
