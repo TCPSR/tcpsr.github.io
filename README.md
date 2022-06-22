@@ -1,20 +1,6 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+## 來源
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
-
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
-
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
-
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
-
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
-
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
-
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+本站使用[**Wowchemy**](https://wowchemy.com)的[Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)建置，官方資源請見以下連結：
 
 - 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
@@ -25,24 +11,16 @@ The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS make
 - 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/.github/contributing.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
 - ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
 
-## We ask you, humbly, to support this open source movement
+## 網站編輯模式
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+### 後台編輯
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+- **操作**：透過[主控板](https://tcpsr.netlify.app/admin/)編輯網站文件，請先向[管理者](https://github.com/SCgeeker)申請帳號。
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+- **適用**：[推廣活動](https://tcpsr.netlify.app/event/)公告張貼、[種子計畫](https://tcpsr.netlify.app/post/)、[交換專案](https://tcpsr.netlify.app/project/)的上架專案。
 
-## Demo credits
+### 推送編輯
 
-Please replace the demo images with your own.
+- **操作**：透過[github社群組織](https://github.com/TCPSR)編輯網站文件，請先向[管理者](https://github.com/SCgeeker)申請成為組織成員。
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+- **適用**：[學習資源](https://tcpsr.netlify.app/course/)、各次主題主頁面。
