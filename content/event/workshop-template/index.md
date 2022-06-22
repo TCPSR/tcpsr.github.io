@@ -21,6 +21,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+<!--- 宣傳圖檔名必須是"featured.jpg" --->
+
 **講者**： 
 <!--- 依狀況置入 --->
 
