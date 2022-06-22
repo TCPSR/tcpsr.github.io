@@ -6,7 +6,7 @@ date: 2022-06-22T02:15:46.657Z
 date_end: 2022-05-27T18:00:00.000Z
 all_day: false
 links:
-  - url: seed_workshop_2022_01_02
+  - url: seed_workshop_season_episode
 event: 工作坊
 event_url: tba
 publishDate: 2022-06-22T02:15:46.687Z
@@ -21,13 +21,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**講者**：
+**講者**： <!--- 依狀況置入 --->
 
 **行前準備**：安裝好R和Rstudio，知道怎麼用Rstudio開啟和執行R程式碼。初次者請參考講者經營的工作坊網站首頁指引，測試個人設備能正確執行。
 
-**工作坊資源網站**：https://rstat-project.github.io/programs.html
+**[工作坊資源網站](https://rstat-project.github.io/seed_courses/)**
 
-第一期第一次上課錄影：
+歷次上課錄影：
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U3REbqQkln4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+<!--- 置入google表單： "傳送" ~ "嵌入 HTML" ~ "複製貼上" --->
