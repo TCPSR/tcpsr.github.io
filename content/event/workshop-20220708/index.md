@@ -37,10 +37,8 @@ image:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gcn_GCJMo0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!--- 置入google表單： "傳送" \~ "嵌入 HTML" \~ "複製貼上" --->
+<!--- 置入google表單： "傳送" \\~ "嵌入 HTML" \\~ "複製貼上" --->
 
-
-
- 
+報名表：
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfEYpMDrWlg89rNATKQhn2502qJDKJ76ShZ60ikVljbVbnrqA/viewform?embedded=true" width="640" height="1280" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
