@@ -17,7 +17,7 @@ weight: 0  # section position on page
 --->
 - 上傳計畫書及倫審證明至公開存放庫，在表單「專案計畫公開網址」項目填寫有效網址。
 
-- 登記完成請至[平台首頁](_index.html)確認登記項目。
+- 登記完成請至[專案首頁](https://tcpsr.netlify.app/project/)確認登記項目。
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJImVVR8eLpEEWOTgwXnNVfcfUs9YggPcNRBdJ4TeW-9TPFA/viewform?embedded=true" width="640" height="1506" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe>
