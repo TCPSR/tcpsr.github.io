@@ -5,7 +5,7 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: 專案登錄頁
 subtitle: 請詳閱填表前注意事項
-#weight: 10  # section position on page
+weight: 0  # section position on page
 #design:
   # Choose how many columns the section has. Valid values: 1 or 2.
 #  columns: '1'
