@@ -2,7 +2,7 @@
 title: Example Project
 date: 2022-04-26T03:15:02.925Z
 summary: ""
-draft: false
+draft: true
 featured: false
 image:
   filename: ""
