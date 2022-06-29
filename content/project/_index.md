@@ -23,5 +23,3 @@ banner:
 {{< gdocs src=src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTNWARTbGShiBrHU4dvqb1DoEQLQ3CbdhqEEMaxKvkyZXIQpdZg4Ndb7SwYtGuO3iUq7v8x26U3hTK8/pubhtml?gid=1077498084&amp;single=true&amp;widget=true&amp;headers=false">}}
 
 ## 進行中或已完成專案資訊
-
-
