@@ -1,6 +1,6 @@
 ---
 title: 專案交換平台
-view: list
+#view: list
 banner:
   caption: ""
   image: ""
@@ -24,3 +24,5 @@ banner:
 
 
 ## 進行中或已完成專案資訊
+
+{{< list_children >}}
