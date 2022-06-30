@@ -32,7 +32,7 @@ image:
 
 我們的重製研究的結果發現，三種簡易效應指標比原始研究更符合假設預測，顯示準確的效果量及樣本量估計，加上以參與者母語書寫的文章，能獲得更穩定的簡易效應。下圖顯示重製研究(●)的三種文本在各指標之間的差異，比原始研究(▲)更明顯。。
 
-* 想知道原始研究與重製研究的差異，請參考專案的[開放資源](https://osf.io/r9jp2/)及[報告預印本](https://osf.io/r9jp2/)。
+* 想知道原始研究與重製研究的差異，請參考專案的[開放資源](https://osf.io/r9jp2/)及[報告預印本](https://psyarxiv.com/uge6k/)。
     
 
 <iframe src="https://mfr.osf.io/render?url=https://osf.io/download/d6amz/?direct%26mode=render"
