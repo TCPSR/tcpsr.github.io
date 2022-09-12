@@ -19,14 +19,14 @@ abstract: >
 location: |-
   線上：同步線上直播
   實體：宜蘭縣礁溪鄉 佛光大學心理學系 會議室  
-date: 2022-09-12T05:33:52.961Z
+date: 2022-12-09T06:00:00.000Z
 date_end: 2022-12-09T10:00:00.000Z
 all_day: false
 event: 演講
 event_url: TBA
 publishDate: 2022-09-12T05:33:52.981Z
 draft: true
-featured: false
+featured: true
 image:
   filename: 學術研習營_202212-09-_0812.jpg
   focal_point: Smart
