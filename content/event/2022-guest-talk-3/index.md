@@ -6,7 +6,7 @@ location: 宜蘭縣礁溪鄉 佛光大學雲慧樓U510會議室
 date: 2022-12-09T14:00:00.000Z
 date_end: 2022-12-09T18:00:00.000Z
 all_day: false
-event: 演講
+event: 學術研習
 event_url: https://tcpsr.netlify.app/event/2022-guest-talk-3/
 publishDate: 2022-09-13T01:51:17.279Z
 featured: true
