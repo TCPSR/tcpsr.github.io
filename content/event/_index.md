@@ -7,7 +7,7 @@ title: 111 學年度上學期 讀書會 (一) 2022.10.28 3-5pm
 location: 線上 (網頁稍後更新)
 date_end: 2022-10-28T09:00:57.628Z
 all_day: true
-event_url: https://tcpsr.netlify.app/event/
+event_url: https://tcpsr.netlify.app/event/journal-club-20221028
 banner:
   caption: ""
   image: ""
