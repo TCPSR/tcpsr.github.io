@@ -1,7 +1,8 @@
 ---
-abstract: 除了年底的特邀演講 (學術研習營) 外，TCPSR 預計舉辦二場線上讀書會。主旨在介紹近來迅速竄起的 FORRT (Framework
-  for Open and Reproducible Research Training) ，並簡介其活動概況，近期(亮眼)成果等。也希望台灣的學界能夠從此種
-  草根自發性 的學術組織社團中得到啟發，甚至效法學習。
+abstract: >
+  除了年底的特邀演講 (學術研習營) 外，TCPSR 預計舉辦二場線上讀書會。主旨在介紹近來迅速竄起的 FORRT (Framework for Open
+  and Reproducible Research Training) ，並簡介其活動概況，近期(亮眼)成果等。也希望台灣的學界能夠從此種 草根自發性
+  的學術組織社團中得到啟發，甚至效法學習。
 location: 線上 (網頁稍後更新)
 date: 2022-10-28T07:00:00.000Z
 all_day: false
