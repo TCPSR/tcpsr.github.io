@@ -1,14 +1,13 @@
 ---
-title: 111 學年度上學期 讀書會 (一) 2022/10/28 15:00-17:00
-abstract: >
-  除了年底的特邀演講 (學術研習營) 外，TCPSR 預計舉辦二場線上讀書會。主旨在介紹近來迅速竄起的 FORRT (Framework for Open
-  and Reproducible Research Training) ，並簡介其活動概況，近期(亮眼)成果等。也希望台灣的學界能夠從此種 草根自發性
-  的學術組織社團中得到啟發，甚至效法學習。
+title: 111學年度上學期 讀書會#1 2022/10/28 15:00-17:00
+abstract: 除了年底的特邀演講（學術研習營）外，TCPSR預計舉辦二場線上讀書會，低第一場將會在10/28下午三點至五點，用線上直播的方式和大家見面。主旨在介紹近來迅速竄起的
+  FORRT（Framework for Open and Reproducible Research
+  Training），並簡介其活動概況，近期成果等。也希望台灣的學界能夠從此種 草根自發性 的學術組織社團中得到啟發，甚至效法學習。
 location: 線上直播（網頁稍後更新）
 date: 2022-10-28T07:00:00.000Z
 date_end: 2022-10-28T09:00:57.628Z
 all_day: false
-event: public
+event: 讀書會
 event_url: https://tcpsr.netlify.app/event/journal-club-20221028
 slides: ""
 draft: false
