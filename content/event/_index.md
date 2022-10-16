@@ -10,7 +10,7 @@ all_day: false
 event: 讀書會
 event_url: https://tcpsr.netlify.app/event/journal-club-20221028
 slides: ""
-draft: true
+draft: false
 view: compact
 banner:
   caption: ""
@@ -18,6 +18,7 @@ banner:
 publishDate: 2022-10-14T11:20:00.000Z
 featured: false
 ---
+
 #### 本次選讀
 
 10/28將選讀FORRT今年發表的文章[A community-sourced glossary of open scholarship terms](https://pubmed.ncbi.nlm.nih.gov/35190714/)
