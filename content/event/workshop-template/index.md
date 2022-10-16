@@ -1,7 +1,7 @@
 ---
-title: workshop-template
-abstract: 台灣心理科學研究協作群(TCPSR)主辦的「R與開放科學線上工作坊--2022第一期1/3」已於3/25(五)舉辦。一期共有三堂課，現開放第三場報名。每堂結束都有課後作業，深化學員學習成效，每堂簡介請參考工作坊資源網站。歡迎有興趣的老師、同學們把時間留下來，報名後，將在當天視訊開始半小時之前，收到視訊連結電子郵件通知。也歡迎推薦其他教師、助教、學生參加！
-location: 報名後，將在當天視訊開始半小時前，收到視訊連結電子郵件通知
+title: (活動名稱)
+abstract: (填寫活動摘要)
+location: 線上直播（網址待發佈）
 date: 2022-06-22T02:15:46.657Z
 date_end: 2022-05-27T18:00:00.000Z
 all_day: false
@@ -10,12 +10,9 @@ links:
 event: 工作坊
 event_url: tba
 publishDate: 2022-06-22T02:15:46.687Z
-draft: true
+draft: true # true= 草稿隱藏模式, false = 公開模式
 featured: false
 tags:
-  - APES
-  - 預先註冊必修課
-  - 註冊報告必修課
 image:
   filename: ""
   focal_point: Smart
@@ -34,6 +31,14 @@ image:
 歷次上課錄影：
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U3REbqQkln4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+#### 本次選讀
+
+10/28將選讀FORRT今年發表的文章[A community-sourced glossary of open scholarship terms](https://pubmed.ncbi.nlm.nih.gov/35190714/)
+
+FORRT是一群致力於推廣開放科學的老師和學生，透過將開放科學理念加入教學中，吸引更多同學發覺開放科學的重要性，並一起為開放科學盡一份力。
+FORRT更透過發表文章、經營網站，讓全球不分國界的人都能一勘他們的理念和成果，在這次的讀書會中，TCPSR將介紹他們今年發表的文章，看看他們如何透過對開放科學相關的名詞作詳細解釋，以讓更多人能了解開放科學。
 
 
 <!--- 置入google表單： "傳送" ~ "嵌入 HTML" ~ "複製貼上" --->
