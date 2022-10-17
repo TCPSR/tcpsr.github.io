@@ -1,5 +1,5 @@
 ---
-title: 2022-10-31-test
+title: 正式活動名稱
 abstract: (填寫活動摘要)
 location: |-
   線上直播(網址待發佈)
