@@ -12,7 +12,7 @@ links: []
 event: 讀書會
 event_url: https://www.youtube.com/watch?v=wzARYDeS61s
 publishDate: 2022-10-18T06:11:41.498Z
-draft: true
+draft: false
 featured: false
 tags: null
 image:
