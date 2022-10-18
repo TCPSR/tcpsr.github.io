@@ -1,5 +1,5 @@
 ---
-title: 2022-10-28-jclub
+title: TCPSR 2022讀書會 10/28：A community-sourced glossary of open scholarship terms
 abstract: 除了年底的特邀演講（學術研習營）外，TCPSR預計舉辦二場線上讀書會，低第一場將會在10/28下午三點至五點，用線上直播的方式和大家見面。主旨在介紹近來迅速竄起的
   FORRT（Framework for Open and Reproducible Research
   Training），並簡介其活動概況，近期成果等。也希望台灣的學界能夠從此種 草根自發性 的學術組織社團中得到啟發，甚至效法學習。
