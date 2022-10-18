@@ -4,7 +4,7 @@ abstract: 除了年底的特邀演講（學術研習營）外，TCPSR預計舉�
   FORRT（Framework for Open and Reproducible Research
   Training），並簡介其活動概況，近期成果等。也希望台灣的學界能夠從此種 草根自發性 的學術組織社團中得到啟發，甚至效法學習。
 location: |
-  線上直播（網址待發佈）
+  線上直播
 date: 2022-10-28T07:00:41.466Z
 date_end: 2022-10-28T09:00:00.000Z
 all_day: false
