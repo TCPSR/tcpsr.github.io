@@ -20,19 +20,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<!--- Before website PM agree the content, Don' turn "DRAFT" off. --->
 
-<!--- This is a template. Don't change anything! --->
-
-<!--- For any instrucion yet to be presented, please tell the website PM. --->
-
-<!--- 宣傳圖檔名必須是"featured.jpg" --->
-
-<!--- upload "featured.jpg" in FEATURED IMAGE --->
-
-<!--- 講者： --->
-
-<!--- 依狀況置入 --->
 
 **行前準備**：
 
