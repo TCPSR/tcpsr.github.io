@@ -7,7 +7,7 @@ date: 2022-12-09T14:00:00.000Z
 date_end: 2022-12-09T18:00:00.000Z
 all_day: false
 event: 學術研習
-event_url: https://tcpsr.netlify.app/event/2022-guest-talk-3/
+event_url: https://youtu.be/UJ_XBvYkJ24
 publishDate: 2022-09-13T01:51:17.279Z
 featured: true
 authors:
@@ -18,6 +18,8 @@ image:
 ### 講者介紹
 
 師承陳瑞麟老師的葉筱凡教授，2017年畢業於中正大學哲學研究所博士班，並曾於成功大學微免所擔任博士後研究員(2019-2021)，2021年起任職於長庚大學人文及醫學科。研究興趣包括科學哲學、生物學哲學、醫學哲學。對[培根的實驗哲學](https://vocus.cc/article/5d3993a3fd89780001062ba6)有相當研究，並也對各領域內的相關科學哲學討論多所涉獵，故能對心理學界的理論及重複危機提出其個人的獨到見解。
+
+### 線上
 
 ### 報名表單
 
