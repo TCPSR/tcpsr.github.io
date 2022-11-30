@@ -19,7 +19,7 @@ featured: false
 tags: null
 image:
   filename: 640px-openneuro_logo.png
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 ---
 **行前準備： **
