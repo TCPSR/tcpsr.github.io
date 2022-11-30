@@ -18,7 +18,7 @@ draft: false
 featured: false
 tags: null
 image:
-  filename: ""
+  filename: 640px-openneuro_logo.png
   focal_point: Smart
   preview_only: false
 ---
