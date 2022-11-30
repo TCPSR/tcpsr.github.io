@@ -22,6 +22,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**行前準備:** 
+**行前準備： **
 
-Take a look at **http://www.openneuro.org**
+Take a look at [openneuro.org](https://openneuro.org/)
+
+**當天簡報檔案： **
+
+[Introducing openneuro.org](https://docs.google.com/presentation/d/173H942Zf3xRSuPG1MANywNkzSaRILKZb9xMgjjJgXGM/edit#slide=id.p)
