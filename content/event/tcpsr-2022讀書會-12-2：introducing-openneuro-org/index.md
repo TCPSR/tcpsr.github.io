@@ -7,8 +7,8 @@ location: |+
   線上直播 (稍晚更新)
 
 
-date: 2022-12-02T07:00:00.000Z
-date_end: 2022-12-02T09:00:00.000Z
+date: 2022-12-02T15:00:00.000Z
+date_end: 2022-12-02T17:00:00.000Z
 all_day: false
 links: []
 event: 讀書會
