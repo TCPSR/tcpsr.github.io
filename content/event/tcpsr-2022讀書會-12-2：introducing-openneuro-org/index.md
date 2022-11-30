@@ -24,4 +24,4 @@ image:
 ---
 **行前準備:** 
 
-t﻿ake a look at **http://www.openneuro.org**
+Take a look at **http://www.openneuro.org**
