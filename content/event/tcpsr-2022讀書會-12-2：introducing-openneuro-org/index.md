@@ -4,7 +4,7 @@ abstract: 2022年結束之前，TCPSR預計舉辦二場線上讀書會。順應 
   (12/2)下午三點至五點，用線上直播的方式和大家見面。這次讀書會的主旨在介紹近來的開放神經科學資源中，成長快速的
   "openneuro.org"，簡介其發展背景，近期現況，與利用其資料達成的成果簡介等。也希望台灣的學界能夠從此種大學贊助的網路平台之運作與成長中得到啟發。
 location: |+
-  線上直播 (稍晚更新)
+  線上直播 https://www.youtube.com/watch?v=hTT0iKR2emI
 
 
 date: 2022-12-02T15:00:00.000Z
@@ -18,10 +18,14 @@ draft: false
 featured: false
 tags: null
 image:
-  filename: ""
-  focal_point: Smart
+  filename: 640px-openneuro_logo.png
+  focal_point: ""
   preview_only: false
 ---
-**行前準備:** 
+**行前準備： **
 
-**t﻿ake a look at http://www.openneuro.org**
+Take a look at [openneuro.org](https://openneuro.org/)
+
+**當天簡報檔案： **
+
+[Introducing openneuro.org](https://docs.google.com/presentation/d/173H942Zf3xRSuPG1MANywNkzSaRILKZb9xMgjjJgXGM/edit#slide=id.p)
